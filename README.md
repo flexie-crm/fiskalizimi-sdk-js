@@ -8,7 +8,7 @@ Clone this repo into your own environment
 
 ```bash
 git clone https://github.com/flexie-crm/fiskalizimi-sdk-js.git
-cd fiskalizimi-js-php/Fx
+cd fiskalizimi-sdk-js/Fx
 ```
 
 Use the npm to install JS dependences.
